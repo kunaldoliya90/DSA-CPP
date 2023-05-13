@@ -56,8 +56,4 @@ int main()
     // cout << (19 << 1) << endl;
     // cout << (19 >> 2) << endl;
     // cout << (19 << 2) << endl;
-
-    
-
-
 }
