@@ -30,4 +30,6 @@ int main()
     // initializing an array
     int second[3] = {3, 5, 7};
     cout << "Value of second is " << second[2] << endl;
+    cout << "Value of third is " << second[3] << endl;
+
 }
